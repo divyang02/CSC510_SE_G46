@@ -41,6 +41,13 @@
     <a href="https://github.com/divyang02/CSC510_SE_G46/issues/new/choose">Request Feature</a>
 </p>
 
+## 📝 License <a name="License"></a>
+This project is licensed under the terms of the MIT license. Please check [License](https://github.com/divyang02/CSC510_SE_G46/blob/main/LICENSE) for more details.
+
+## 🍰 Contributing <a name="Contributing"></a>
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/divyang02/CSC510_SE_G46/compare).
+
+Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
 ## 👥 Contributors <a name="Contributors"></a>
 

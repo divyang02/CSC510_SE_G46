@@ -1,9 +1,17 @@
-# CSC510_SE_G46
-
 <h1 align="center">
   CSC510_SE_G46
 </h1>
+
 <!--Badges-->
+<p align="center">
+<a href="https://doi.org/10.5281/zenodo.7028280">
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7028280.svg" alt="DOI"></a>
+</a>
+<a href="https://travis-ci.org/divyang02">
+<img src="https://travis-ci.org/divyang02/CSC510_SE_G46.svg?master" />
+</a>
+</p>
+
 <p align="center">
 <a href="https://github.com/divyang02/CSC510_SE_G46/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/divyang02/CSC510_SE_G46?style=for-the-badge" alt="CSC510_SE_G46 license" />

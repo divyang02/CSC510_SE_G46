@@ -41,6 +41,17 @@
     <a href="https://github.com/divyang02/CSC510_SE_G46/issues/new/choose">Request Feature</a>
 </p>
 
+## Table of Contents
+- [Introduction](#Introduction)
+- [Installation Steps](#ExecutionSteps)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Team Members](#TeamMember)
+
+## 📖 Introduction <a name="Introduction"></a>
+
+
+
 ## 📝 License <a name="License"></a>
 This project is licensed under the terms of the MIT license. Please check [License](https://github.com/divyang02/CSC510_SE_G46/blob/main/LICENSE) for more details.
 

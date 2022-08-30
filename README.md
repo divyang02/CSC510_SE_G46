@@ -75,5 +75,6 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
     <td align="center"><a href="https://github.com/gargpriyam21"><img src="https://avatars.githubusercontent.com/u/32238511?v=4" width="75px;" alt=""/><br /><sub><b>Priyam Garg</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/bhansaliyash"><img src="https://avatars.githubusercontent.com/u/21220880?v=4" width="75px;" alt=""/><br /><sub><b>Yash Bhansali</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/devmehta1999"><img src="https://avatars.githubusercontent.com/u/48157574?v=4" width="75px;" alt=""/><br /><sub><b>Dev Mehta</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/manognapc"><img src="https://avatars.githubusercontent.com/u/112452957?v=4" width="75px;" alt=""/><br /><sub><b>Manogna Choudary Potluri</b></sub></a><br /></td>
   </tr>
 </table>
